@@ -36,6 +36,7 @@
     background-color: var(--color-purple);
     border: none;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 /* Typography */
@@ -332,7 +333,6 @@
     background-image: url(./Images/music-wave-page4.svg);
     min-height: 100vh;
     top: 331px;
-    left: -48px;
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
